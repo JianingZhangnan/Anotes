@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "index"
             }
           }
         ]
@@ -206,21 +206,23 @@
   },
   "active": "1e02dac6d88c8598",
   "lastOpenFiles": [
+    "docs/index.html",
+    "docs/head.html",
+    "docs/export-style.css",
+    "docs/未命名.html",
+    "docs/微信图片_20250613210303.jpg",
+    "未命名.md",
     "西西弗神话/什么是荒诞(Absurdity).md",
     "西西弗神话/荒诞推理/荒诞与自杀.md",
-    "未命名.md",
+    "index.md",
     "head.html",
     "export-style.css",
     "docs/荒诞与自杀.pdf",
-    "docs/head.html",
-    "docs/export-style.css",
     "docs/西西弗神话/荒诞推理/荒诞与自杀.html",
     "docs/西西弗神话/荒诞推理",
     "docs/西西弗神话/什么是荒诞(Absurdity).html",
     "docs/西西弗神话",
     "docs/lib/media/6155340132a851f6089e.svg",
-    "docs/lib/fonts/mathjax_zero.woff",
-    "欢迎.md",
     "微信图片_20250613210303.jpg",
     "计划/时间规划.md",
     "计划/论文修改.md",
@@ -254,7 +256,6 @@
     "AI与CS/python/keshe2/code/src/frontend/static/img/default-avatar.png",
     "AI与CS/python/keshe2/code/src/frontend/static/img/bot-avatar.png",
     "群论.canvas",
-    "未命名.canvas",
-    "物理学/基础学科论坛/model_structure_success.png"
+    "未命名.canvas"
   ]
 }
