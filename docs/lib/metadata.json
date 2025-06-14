@@ -1,6 +1,6 @@
 {
   "vaultName": "人文社科读书笔记",
-  "lastExport": 1749840735539,
+  "lastExport": 1749860046024,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": true,
@@ -8,8 +8,51 @@
   "files": [
     "西西弗神话/荒诞推理/荒诞与自杀.md",
     "西西弗神话/什么是荒诞(Absurdity).md",
-    "微信图片_20250613210303.jpg",
-    "未命名.md",
+    "docs/西西弗神话/荒诞推理/荒诞与自杀.html",
+    "docs/西西弗神话/什么是荒诞(Absurdity).html",
+    "docs/lib/fonts/2d5198822ab091ce4305.woff2",
+    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "docs/lib/fonts/05b618077343fbbd92b7.ttf",
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "docs/lib/fonts/94f2f163d4b698242fef.otf",
+    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "docs/lib/fonts/72505e6a122c6acd5471.woff2",
+    "docs/lib/fonts/454577c22304619db035.ttf",
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
+    "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/lib/fonts/mathjax_ams-regular.woff",
+    "docs/lib/fonts/mathjax_calligraphic-bold.woff",
+    "docs/lib/fonts/mathjax_calligraphic-regular.woff",
+    "docs/lib/fonts/mathjax_fraktur-bold.woff",
+    "docs/lib/fonts/mathjax_fraktur-regular.woff",
+    "docs/lib/fonts/mathjax_main-bold.woff",
+    "docs/lib/fonts/mathjax_main-italic.woff",
+    "docs/lib/fonts/mathjax_main-regular.woff",
+    "docs/lib/fonts/mathjax_math-bolditalic.woff",
+    "docs/lib/fonts/mathjax_math-italic.woff",
+    "docs/lib/fonts/mathjax_sansserif-bold.woff",
+    "docs/lib/fonts/mathjax_sansserif-italic.woff",
+    "docs/lib/fonts/mathjax_sansserif-regular.woff",
+    "docs/lib/fonts/mathjax_script-regular.woff",
+    "docs/lib/fonts/mathjax_size1-regular.woff",
+    "docs/lib/fonts/mathjax_size2-regular.woff",
+    "docs/lib/fonts/mathjax_size3-regular.woff",
+    "docs/lib/fonts/mathjax_size4-regular.woff",
+    "docs/lib/fonts/mathjax_typewriter-regular.woff",
+    "docs/lib/fonts/mathjax_vector-bold.woff",
+    "docs/lib/fonts/mathjax_vector-regular.woff",
+    "docs/lib/fonts/mathjax_zero.woff",
+    "docs/lib/media/6155340132a851f6089e.svg",
+    "docs/lib/metadata.json",
+    "docs/荒诞与自杀.pdf",
+    "docs/微信图片_20250613210303.jpg",
+    "docs/export-style.css",
+    "docs/head.html",
+    "docs/index.html",
+    "背景图片.jpg",
     "export-style.css",
     "head.html",
     "index.md",
@@ -90,261 +133,519 @@
   ],
   "fileInfo": {
     "西西弗神话/荒诞推理/荒诞与自杀.md": {
-      "modifiedTime": 1749840735539,
-      "sourceSize": 7833,
+      "modifiedTime": 1749860046024,
+      "sourceSize": 12021,
       "exportedPath": "西西弗神话/荒诞推理/荒诞与自杀.html",
       "dependencies": []
     },
     "西西弗神话/什么是荒诞(Absurdity).md": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 105,
       "exportedPath": "西西弗神话/什么是荒诞(Absurdity).html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
-    "微信图片_20250613210303.jpg": {
-      "modifiedTime": 1749840735539,
-      "sourceSize": 15332951,
-      "exportedPath": "微信图片_20250613210303.jpg",
-      "dependencies": []
-    },
-    "未命名.md": {
-      "modifiedTime": 1749840735539,
-      "sourceSize": 172,
-      "exportedPath": "未命名.html",
-      "dependencies": []
-    },
     "export-style.css": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 257,
       "exportedPath": "export-style.css",
       "dependencies": []
     },
     "head.html": {
-      "modifiedTime": 1749840735539,
-      "sourceSize": 47,
+      "modifiedTime": 1749860046024,
+      "sourceSize": 108,
       "exportedPath": "head.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1749840735539,
+      "modifiedTime": 1749860046024,
       "sourceSize": 44,
       "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "docs/西西弗神话/荒诞推理/荒诞与自杀.html": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 311858,
+      "exportedPath": "docs/西西弗神话/荒诞推理/荒诞与自杀.html",
+      "dependencies": []
+    },
+    "docs/西西弗神话/什么是荒诞(Absurdity).html": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 297902,
+      "exportedPath": "docs/西西弗神话/什么是荒诞(Absurdity).html",
+      "dependencies": []
+    },
+    "docs/lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 104332,
+      "exportedPath": "docs/lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 7876,
+      "exportedPath": "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 155288,
+      "exportedPath": "docs/lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 191568,
+      "exportedPath": "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "docs/lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 192740,
+      "exportedPath": "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "docs/lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 66800,
+      "exportedPath": "docs/lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 111708,
+      "exportedPath": "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 104232,
+      "exportedPath": "docs/lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 161376,
+      "exportedPath": "docs/lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 105804,
+      "exportedPath": "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 98868,
+      "exportedPath": "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 106876,
+      "exportedPath": "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 106108,
+      "exportedPath": "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 40808,
+      "exportedPath": "docs/lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 9908,
+      "exportedPath": "docs/lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 9600,
+      "exportedPath": "docs/lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 22340,
+      "exportedPath": "docs/lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 21480,
+      "exportedPath": "docs/lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 34464,
+      "exportedPath": "docs/lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 20832,
+      "exportedPath": "docs/lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 34160,
+      "exportedPath": "docs/lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 19776,
+      "exportedPath": "docs/lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 19360,
+      "exportedPath": "docs/lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 15944,
+      "exportedPath": "docs/lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 14628,
+      "exportedPath": "docs/lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 12660,
+      "exportedPath": "docs/lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 11852,
+      "exportedPath": "docs/lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 5792,
+      "exportedPath": "docs/lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 5464,
+      "exportedPath": "docs/lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 3244,
+      "exportedPath": "docs/lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 5148,
+      "exportedPath": "docs/lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 17604,
+      "exportedPath": "docs/lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 1116,
+      "exportedPath": "docs/lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 1136,
+      "exportedPath": "docs/lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "docs/lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 1368,
+      "exportedPath": "docs/lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "docs/lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 315,
+      "exportedPath": "docs/lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "docs/lib/metadata.json": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 12298,
+      "exportedPath": "docs/lib/metadata.json",
+      "dependencies": []
+    },
+    "docs/荒诞与自杀.pdf": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 4339556,
+      "exportedPath": "docs/荒诞与自杀.pdf",
+      "dependencies": []
+    },
+    "docs/微信图片_20250613210303.jpg": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 15332951,
+      "exportedPath": "docs/微信图片_20250613210303.jpg",
+      "dependencies": []
+    },
+    "docs/export-style.css": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 257,
+      "exportedPath": "docs/export-style.css",
+      "dependencies": []
+    },
+    "docs/head.html": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 47,
+      "exportedPath": "docs/head.html",
+      "dependencies": []
+    },
+    "docs/index.html": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 296902,
+      "exportedPath": "docs/index.html",
+      "dependencies": []
+    },
+    "背景图片.jpg": {
+      "modifiedTime": 1749860046024,
+      "sourceSize": 15332951,
+      "exportedPath": "背景图片.jpg",
       "dependencies": []
     }
   }
