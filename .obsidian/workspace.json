@@ -204,61 +204,24 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "696bfd0cfd3205ba",
-    "type": "floating",
-    "children": [
-      {
-        "id": "288f4eb2a5117ac3",
-        "type": "window",
-        "children": [
-          {
-            "id": "7cf1ac3809bfc264",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b657fe35025366b2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "index.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "index"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 402,
-        "y": 542,
-        "width": 902,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "b657fe35025366b2",
+  "active": "1e02dac6d88c8598",
   "lastOpenFiles": [
-    "docs/docs/lib/fonts/mathjax_fraktur-bold.woff",
-    "docs/docs/lib/fonts/mathjax_calligraphic-regular.woff",
-    "docs/docs/lib/fonts/mathjax_calligraphic-bold.woff",
-    "docs/docs/lib/fonts/mathjax_ams-regular.woff",
-    "docs/docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "docs/docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "docs/docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "docs/docs/lib/fonts/b5f0f109bc88052d4000.woff2",
-    "docs/docs/lib/fonts/454577c22304619db035.ttf",
-    "docs/docs/lib/fonts/72505e6a122c6acd5471.woff2",
-    "docs/docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "index.md",
     "西西弗神话/什么是荒诞(Absurdity).md",
     "西西弗神话/荒诞推理/荒诞与自杀.md",
-    "index.md",
+    "docs/背景图片.jpg",
+    "docs/docs/index.html",
+    "docs/docs/head.html",
+    "docs/docs/export-style.css",
+    "docs/docs/微信图片_20250613210303.jpg",
+    "docs/docs/荒诞与自杀.pdf",
+    "docs/docs/lib/metadata.json",
+    "docs/docs/lib/media/6155340132a851f6089e.svg",
+    "docs/docs/lib/media",
+    "docs/docs/lib/fonts/mathjax_zero.woff",
+    "docs/docs/lib/fonts/mathjax_vector-regular.woff",
+    "docs/docs/lib/fonts/mathjax_vector-bold.woff",
+    "docs/docs/lib/fonts/mathjax_typewriter-regular.woff",
     "背景图片.jpg",
     "未命名.md",
     "docs/微信图片_20250613210303.jpg",
@@ -291,9 +254,6 @@
     "AI与CS/python/keshe2/demo/LLM助手v1.0/keshe2 - 副本/src/frontend/static/img/user-avatar.png",
     "AI与CS/python/keshe2/demo/LLM助手v1.0/keshe2 - 副本/src/frontend/static/img/default-avatar.png",
     "AI与CS/python/keshe2/demo/LLM助手v1.0/keshe2 - 副本/src/frontend/static/img/bot-avatar.png",
-    "AI与CS/python/keshe2/code/src/frontend/static/img/user-avatar.png",
-    "AI与CS/python/keshe2/code/src/frontend/static/img/default-avatar.png",
-    "AI与CS/python/keshe2/code/src/frontend/static/img/bot-avatar.png",
     "群论.canvas",
     "未命名.canvas"
   ]
